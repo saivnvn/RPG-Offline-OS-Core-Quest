@@ -1,7 +1,7 @@
 # RPG Offline: OS Core Quest
 
 <p align="center">
-  <img src="logo2.png" alt="RPG Offline: OS Core Quest Logo" width="180"/>
+  <img src="anh11.png" alt="RPG Offline: OS Core Quest Logo" width="500"/>
 </p>
 
 <p align="center">
@@ -33,9 +33,7 @@ As the last **Restorer Hero**, you must explore broken OS zones, collect the los
 ## Screenshots
 
 <p align="center">
-  <img src="anh4.png" alt="Screenshot 1" width="250"/>
-  <img src="anh5.png" alt="Screenshot 2" width="250"/>
-  <img src="anh6.png" alt="Screenshot 3" width="250"/>
+  <img src="anh22.png" alt="Screenshot 1" width="800"/>
 </p>
 
 ---
@@ -48,6 +46,17 @@ As the last **Restorer Hero**, you must explore broken OS zones, collect the los
 - Collect lost Core Fragments to unlock the story
 - Upgrade your hero, equipment, and skills
 - Play anytime with no internet required
+  
+---
+
+## Update
+▶ Added HERO Keyboard progression for Roguelite RPG runs.
+
+▶ Use Gold to upgrade your permanent Keyboard.
+
+▶ HERO Keyboard does not reset on New Game.
+
+▶ Each new run helps you grow stronger.
 
 ---
 
