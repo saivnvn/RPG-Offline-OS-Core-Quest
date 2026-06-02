@@ -1,7 +1,7 @@
 # RPG Offline: OS Core Quest
 
 <p align="center">
-  <img src="512.jpeg" alt="RPG Offline: OS Core Quest Logo" width="500"/>
+  <img src="512.jpeg" alt="RPG Offline: OS Core Quest Logo" width="350"/>
 </p>
 
 <p align="center">
