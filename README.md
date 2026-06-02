@@ -1,7 +1,7 @@
 # RPG Offline: OS Core Quest
 
 <p align="center">
-  <img src="anh11.png" alt="RPG Offline: OS Core Quest Logo" width="500"/>
+  <img src="512.jpeg" alt="RPG Offline: OS Core Quest Logo" width="500"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ As the last **Restorer Hero**, you must explore dangerous digital zones, recover
 ## Screenshots
 
 <p align="center">
-  <img src="anh22.png" alt="Gameplay Screenshot" width="800"/>
+  <img src="v95.png" alt="Gameplay Screenshot" width="800"/>
 </p>
 
 ---
