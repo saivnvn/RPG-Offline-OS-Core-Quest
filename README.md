@@ -33,8 +33,10 @@ As the last **Restorer Hero**, you must explore dangerous digital zones, recover
 ## Screenshots
 
 <p align="center">
-  <img src="v95.png" alt="Gameplay Screenshot" width="800"/>
+  <img src="anh33.png" alt="Gameplay Screenshot" width="800"/>
 </p>
+
+---
 
 ---
 
@@ -55,11 +57,25 @@ Every run helps you grow stronger and discover new ways to survive.
 ### Hidden Secrets
 Uncover optional lore, hidden story content, and multiple endings.
 
+### Bestiary Collection
+Hunt corrupted creatures, unlock monster entries, and complete your digital archive.
+
+### Discover Hidden Commands
+Unlock secret system functions inspired by classic computer terminals.
+
+### Accessibility Support
+Fully compatible with VoiceOver, allowing blind and visually impaired players to navigate maps, battles, rewards, and key game systems.
+
+### 8 Languages Supported
+Play in English, Japanese, Korean, German, Spanish, Portuguese, Chinese, or Vietnamese.
+
 ### Offline Gameplay
 Play anytime, anywhere — no internet connection required.
 
 ### Lightweight & Battery Friendly
 Optimized for smooth performance on both iPhone and iPad.
+
+---
 
 ---
 
