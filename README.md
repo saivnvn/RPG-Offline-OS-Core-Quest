@@ -14,6 +14,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=sam.neon.rpg.hero.game">
+    Download on the Google Play
+  </a>
+</p>
+
+
 ---
 
 ## About the Game
